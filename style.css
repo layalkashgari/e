@@ -1,0 +1,94 @@
+body {
+    background-color: #fbfbfb;
+
+}
+.img1 {
+    width: 400px;
+}
+
+p { 
+    text-align: center;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.img {
+    /* text-align: center; */
+}
+
+.input {
+    /* text-align: center;
+    margin: auto;
+    width: 400px; */
+    /* justify-content: center !important; */
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    
+    
+   
+}
+
+
+.canvas {
+    text-align: center;
+}
+
+.text {
+    font-size: 50px;
+}
+
+#input2 { 
+
+    font-family: PFBenchmark, sans-serif;
+    font-size: 1.25rem;
+    font-weight: 200;
+    display: block;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 270px;
+    margin: 10px 0;
+    padding: 14px 36px;
+    color: #56565a;
+    border: 1px solid #56565a;
+    border-radius: 40px;
+    background-color: #f4f4f4;
+    background-image: url(../images/loupe_noir@1.5x.png);
+    background-repeat: no-repeat;
+    background-position: right 20px center;
+    background-size: 20px;
+    
+}
+#button  { 
+
+    font-family: PFBenchmark, sans-serif;
+    font-size: 1.375rem;
+    font-weight: bold;
+    display: block;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 270px;
+    margin: 15px 0;
+    padding: 12px 36px;
+    cursor: pointer;
+    -webkit-transition: all .3s ease-out .07s;
+    transition: all .3s ease-out .07s;
+    color: #fff;
+    border: 1px solid #f7485e;
+    border-radius: 40px;
+    background: #f7485e;
+  
+}
+
+/* .section-block--push:before {
+    background: #f7485e;
+    content: '';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 38%;
+    z-index: 0;
+} */
